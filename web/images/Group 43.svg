@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.7" height="22.7" viewBox="0 0 22.7 22.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_43" data-name="Group 43" transform="translate(-33.598 -33.65)">
+    <rect id="Rectangle_59" data-name="Rectangle 59" class="cls-1" width="30.103" height="2" transform="translate(35.012 33.65) rotate(45)"/>
+    <rect id="Rectangle_62" data-name="Rectangle 62" class="cls-1" width="30.103" height="2" transform="translate(33.598 54.936) rotate(-45)"/>
+  </g>
+</svg>

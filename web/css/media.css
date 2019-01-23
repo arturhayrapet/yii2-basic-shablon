@@ -1,0 +1,231 @@
+@media (min-width: 1200px) and (max-width: 1600px) {
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menu-items {
+        font-size: 11px;
+    }
+
+    .hidden_menu {
+        height: 100vh;
+    }
+
+    .menu-items span {
+        font-size: 10px;
+        padding: 0 10px 0 5px;
+    }
+
+    .social {
+        width: 18px;
+        height: 18px;
+        margin-right: -10px;
+    }
+
+    .nav > li > a {
+        padding: 10px 8px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    nav {
+        height: 90px;
+    }
+
+    .navbar-nav {
+        margin: 0 0 !important;
+    }
+
+    .hidden_menu {
+        display: none;
+        width: 100%;
+        height: 100vh;
+        top: 0;
+        position: absolute;
+        background-image: linear-gradient(54deg, #8ddd8b, #7dc47c 53%, #70af6f);
+        z-index: 1000;
+    }
+
+    #banner {
+        padding-top: 90px;
+    }
+
+    .menu-items {
+        line-height: 90px;
+    }
+
+    .nav-height {
+        line-height: 90px;
+        height: 90px;
+    }
+
+    .tablet_logo, .hamburger {
+        line-height: 90px;
+    }
+
+    .tablet_logo {
+        margin: 0 30px 0 -25px;
+    }
+
+    .hamburger {
+        margin-left: 90px;
+    }
+
+    .about_title {
+        margin-top: 50px;
+    }
+
+    .products_title {
+        margin-top: 85px;
+    }
+
+    #certificate {
+        padding-top: 0px;
+    }
+
+    .cer_title {
+        margin-top: 20px;
+    }
+
+    .cer_img {
+        margin-top: 30px;
+    }
+
+    #certificate img {
+        padding-bottom: 35px;
+    }
+
+    #partners {
+        padding-top: 85px;
+    }
+
+    #contact {
+        padding-top: 85px;
+        padding-bottom: 50px;
+    }
+
+    footer {
+        position: unset !important;
+    }
+}
+
+@media (max-width: 767px) {
+    nav {
+        height: 90px;
+    }
+
+    .nav-height {
+        height: 90px;
+    }
+
+    .tablet_logo, .hamburger {
+        line-height: 75px;
+    }
+
+    .hamburger {
+        margin-right: 30px !important;
+    }
+
+    .hidden_menu {
+        display: none;
+        width: 100%;
+        height: 100vh;
+        top: 0;
+        position: absolute;
+        background-image: linear-gradient(54deg, #8ddd8b, #7dc47c 53%, #70af6f);
+    }
+
+    #banner {
+        padding-top: 90px;
+    }
+
+    .banner_title {
+        font-size: 30px;
+    }
+
+    .banner_subscription {
+        font-size: 12px;
+    }
+
+    .p_0 {
+        padding: 15px;
+    }
+
+    .about_title {
+        margin-top: 80px;
+    }
+
+    .about_logo {
+        margin-top: 20px;
+    }
+
+    .products_title {
+        margin-top: 20px;
+    }
+
+    #certificate {
+        padding-top: 0px;
+    }
+
+    .cer_title {
+        margin-top: 20px;
+    }
+
+    .cer_img {
+        margin-top: 30px;
+    }
+
+    #certificate img {
+        padding-bottom: 35px;
+    }
+
+    #partners {
+        padding-top: 20px;
+    }
+
+    #contact {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+
+    .contact_info {
+        margin-top: 15px;
+    }
+
+    .partners_description, .products_description {
+        padding: 0 15px;
+    }
+
+    .prod_button {
+        margin-top: 15px;
+        height: 30px;
+        font-size: 11px;
+        line-height: 30px;
+    }
+
+    #products .owl-carousel:after, #products .owl-carousel:before {
+        background-image: none;
+    }
+
+    #partners .owl-item .img_div {
+        height: 80px;
+    }
+
+    #partners .owl-item img {
+        width: 70px;
+    }
+
+    footer {
+        position: unset !important;
+    }
+}
+
+@media (max-width: 500px) {
+    .p_5 {
+        padding: 0 5px;
+    }
+
+    .provider {
+        font-size: 10px;
+    }
+}
